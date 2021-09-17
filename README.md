@@ -19,3 +19,5 @@ to test local
 
 to test on server
 `npx hardhat run scripts/deploy.js --network rinkeby`
+
+Note missing hardhat.config.js in the root
