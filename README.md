@@ -14,8 +14,8 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 
-``to test local
-npx hardhat run scripts/run.js
+to test local
+`npx hardhat run scripts/run.js`
 
-``to test on server
-npx hardhat run scripts/deploy.js --network rinkeby
+to test on server
+`npx hardhat run scripts/deploy.js --network rinkeby`
